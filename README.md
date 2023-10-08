@@ -1,1 +1,2 @@
 # johnann_olive_tree
+This project involves predicting house prices using linear regression. The dataset used for this project has been obtained from an open source. It includes information such as household income and various amenities, which are used to estimate the house's price. Real estate professionals utilize this information, including the house's address, to inform potential buyers or renters about the property.
